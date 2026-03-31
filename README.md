@@ -13,3 +13,4 @@ In this project, I used **Amplitude** to analyze user journey and key product me
 * Amplitude, Behavioral Cohorts, Lifecycle Analysis.
 
 Link to Dashboard: https://app.amplitude.com/analytics/demo/dashboard/jige18fe?source=copy+url
+<img width="1871" height="864" alt="image" src="https://github.com/user-attachments/assets/e3012f05-452a-43d3-92d9-152f836bb425" />
